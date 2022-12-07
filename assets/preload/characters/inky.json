@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "bendy idle"
+		},
+		{
+			"offsets": [
+				130,
+				-450
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bendy down"
+		},
+		{
+			"offsets": [
+				105,
+				-126
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bendy left"
+		},
+		{
+			"offsets": [
+				12,
+				-207
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bendy right"
+		},
+		{
+			"offsets": [
+				31,
+				57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bendy up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/InkDemon",
+	"position": [
+		0,
+		-280
+	],
+	"healthicon": "id",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		205,
+		118
+	],
+	"camera_position": [
+		-30,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 0.999999999999999
+}

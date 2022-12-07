@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BendyIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-120
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BendySingDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				19
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BendySingLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-88,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BendySingRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				81,
+				57
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BendySingUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BendyAnimsStage",
+	"position": [
+		150,
+		340
+	],
+	"healthicon": "bendy",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-30,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 2.2
+}
