@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BENDY_Dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BendyIdle0000" x="0" y="0" width="479" height="520"/>
+	<SubTexture name="Bendyconfuse0000" x="479" y="0" width="468" height="537" frameX="0" frameY="0" frameWidth="492" frameHeight="537"/>
+	<SubTexture name="Bendyconfuse0001" x="479" y="0" width="468" height="537" frameX="0" frameY="0" frameWidth="492" frameHeight="537"/>
+	<SubTexture name="Bendyconfuse0002" x="947" y="0" width="469" height="527" frameX="-6" frameY="-10" frameWidth="492" frameHeight="537"/>
+	<SubTexture name="Bendyconfuse0003" x="947" y="0" width="469" height="527" frameX="-6" frameY="-10" frameWidth="492" frameHeight="537"/>
+	<SubTexture name="Bendyconfuse0004" x="1416" y="0" width="479" height="520" frameX="-13" frameY="-17" frameWidth="492" frameHeight="537"/>
+	<SubTexture name="Bendyconfuse0005" x="1416" y="0" width="479" height="520" frameX="-13" frameY="-17" frameWidth="492" frameHeight="537"/>
+	<SubTexture name="Bendyquestion0000" x="0" y="537" width="479" height="520"/>
+	<SubTexture name="Bendytalk0000" x="479" y="537" width="468" height="537" frameX="0" frameY="0" frameWidth="492" frameHeight="537"/>
+	<SubTexture name="Bendytalk0001" x="479" y="537" width="468" height="537" frameX="0" frameY="0" frameWidth="492" frameHeight="537"/>
+	<SubTexture name="Bendytalk0002" x="947" y="537" width="469" height="527" frameX="-6" frameY="-10" frameWidth="492" frameHeight="537"/>
+	<SubTexture name="Bendytalk0003" x="947" y="537" width="469" height="527" frameX="-6" frameY="-10" frameWidth="492" frameHeight="537"/>
+	<SubTexture name="Bendytalk0004" x="1416" y="537" width="479" height="520" frameX="-13" frameY="-17" frameWidth="492" frameHeight="537"/>
+	<SubTexture name="Bendytalk0005" x="1416" y="537" width="479" height="520" frameX="-13" frameY="-17" frameWidth="492" frameHeight="537"/>
+</TextureAtlas>
