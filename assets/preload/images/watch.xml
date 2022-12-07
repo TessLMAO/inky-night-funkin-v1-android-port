@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="watch.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cool0000" x="0" y="0" width="440" height="802" frameX="0" frameY="-71" frameWidth="440" frameHeight="873"/>
+	<SubTexture name="cool0001" x="0" y="0" width="440" height="802" frameX="0" frameY="-71" frameWidth="440" frameHeight="873"/>
+	<SubTexture name="cool0002" x="440" y="0" width="432" height="838" frameX="-4" frameY="-33" frameWidth="440" frameHeight="873"/>
+	<SubTexture name="cool0003" x="440" y="0" width="432" height="838" frameX="-4" frameY="-33" frameWidth="440" frameHeight="873"/>
+	<SubTexture name="cool0004" x="872" y="0" width="428" height="859" frameX="-6" frameY="-10" frameWidth="440" frameHeight="873"/>
+	<SubTexture name="cool0005" x="872" y="0" width="428" height="859" frameX="-6" frameY="-10" frameWidth="440" frameHeight="873"/>
+	<SubTexture name="cool0006" x="1300" y="0" width="427" height="869" frameX="-6" frameY="0" frameWidth="440" frameHeight="873"/>
+	<SubTexture name="cool0007" x="1300" y="0" width="427" height="869" frameX="-6" frameY="0" frameWidth="440" frameHeight="873"/>
+	<SubTexture name="cool0008" x="1300" y="0" width="427" height="869" frameX="-6" frameY="-3" frameWidth="440" frameHeight="873"/>
+	<SubTexture name="cool0009" x="1300" y="0" width="427" height="869" frameX="-6" frameY="-3" frameWidth="440" frameHeight="873"/>
+	<SubTexture name="cool0010" x="872" y="0" width="428" height="859" frameX="-6" frameY="-8" frameWidth="440" frameHeight="873"/>
+	<SubTexture name="cool0011" x="872" y="0" width="428" height="859" frameX="-6" frameY="-9" frameWidth="440" frameHeight="873"/>
+	<SubTexture name="cool0012" x="872" y="0" width="428" height="859" frameX="-6" frameY="-9" frameWidth="440" frameHeight="873"/>
+	<SubTexture name="cool0013" x="872" y="0" width="428" height="859" frameX="-6" frameY="-9" frameWidth="440" frameHeight="873"/>
+	<SubTexture name="cool0014" x="872" y="0" width="428" height="859" frameX="-6" frameY="-9" frameWidth="440" frameHeight="873"/>
+	<SubTexture name="cool0015" x="872" y="0" width="428" height="859" frameX="-6" frameY="-9" frameWidth="440" frameHeight="873"/>
+	<SubTexture name="cool0016" x="872" y="0" width="428" height="859" frameX="-6" frameY="-9" frameWidth="440" frameHeight="873"/>
+	<SubTexture name="cool0017" x="872" y="0" width="428" height="859" frameX="-6" frameY="-9" frameWidth="440" frameHeight="873"/>
+</TextureAtlas>
